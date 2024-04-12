@@ -25,3 +25,11 @@ A second table can be maintained to keep overview of the groups
   * kind: "pathway", "module", "literature", "marker", "DEG"
   * description: for example "upregulated upon MYCN knock-down" or whatever
   * citation: PMID or doi where applicable
+
+## usage
+
+I placed some convenience code in `nb_sets` so that you can run
+
+`import nb_sets`
+
+and then pass `nb_sets.d` into things such as `gseapy` or `decoupler`. Here, `d` is a dictionary with gene set names as key and list of gene_names as value.
