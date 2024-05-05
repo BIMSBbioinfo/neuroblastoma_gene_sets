@@ -3190,7 +3190,6 @@ anglemania_beta_0.1	C8	CORO1A	0.969
 anglemania_beta_0.1	C8	MCTP2	0.969
 anglemania_beta_0.1	C9	B2M	0.908
 anglemania_beta_0.1	C9	MIR4435-1HG	0.905
-<<<<<<< HEAD
 Kinker_Regev_Tirosh_2020	Cell_Cycle_G1_S	HIST1H4C	
 Kinker_Regev_Tirosh_2020	Cell_Cycle_G1_S	CLSPN	
 Kinker_Regev_Tirosh_2020	Cell_Cycle_G1_S	ATAD2	
@@ -3724,7 +3723,6 @@ Kinker_Regev_Tirosh_2020	Proteasomal_Degradation	CCT7
 Kinker_Regev_Tirosh_2020	Proteasomal_Degradation	MAGOH	
 Kinker_Regev_Tirosh_2020	Proteasomal_Degradation	RBM42	
 Kinker_Regev_Tirosh_2020	Proteasomal_Degradation	SLC3A2	
-=======
 Yanai_Barkely_2022	Cycle	ACYP1	NA
 Yanai_Barkely_2022	Cycle	ANLN	NA
 Yanai_Barkely_2022	Cycle	ANP32B	NA
@@ -4921,4 +4919,3 @@ Yanai_Barkely_2022	NPC	STMN4	NA
 Yanai_Barkely_2022	NPC	SYT1	NA
 Yanai_Barkely_2022	NPC	TAGLN3	NA
 Yanai_Barkely_2022	NPC	TMSB15A	NA
->>>>>>> 0a288c8 (Added Yanai_Barkely genes)
