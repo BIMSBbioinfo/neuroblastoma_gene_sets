@@ -7867,7 +7867,6 @@ Mei2024_BMMet	metastatic_signature	ERVMER61-1	20.92121711
 Mei2024_BMMet	metastatic_signature	POLR3D	18.05516216
 Mei2024_BMMet	metastatic_signature	PDZD11	15.74393794
 Mei2024_BMMet	metastatic_signature	PPAT	17.31541334
-<<<<<<< HEAD
 Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	LAMC2	
 Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	SERPINE1	
 Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	PRSS8	
@@ -8006,7 +8005,138 @@ Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	TNNC2
 Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	WFDC3	
 Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	FGD6	
 Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	RP11-350J20.12	
-Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	RP11-519G16.5	
-=======
-
->>>>>>> 115bb56 (merged with upstream)
+Ciernik_Boeva_BioRxiv_2025	cancer_specific_EMT	RP11-519G16.5   
+Thirant_2023	NOR_MES	NBAS	
+Thirant_2023	NOR_MES	NR2F1	
+Thirant_2023	NOR_MES	TAC1	
+Thirant_2023	NOR_MES	DDX1	
+Thirant_2023	NOR_MES	C11orf96	
+Thirant_2023	NOR_MES	IER2	
+Thirant_2023	NOR_MES	FOXC1	
+Thirant_2023	NOR_MES	TIMP3	
+Thirant_2023	NOR_MES	GAL	
+Thirant_2023	NOR_MES	FOS	
+Thirant_2023	NOR_MES	ADCYAP1	
+Thirant_2023	NOR_MES	TWIST1	
+Thirant_2023	NOR_MES	IGFBP5	
+Thirant_2023	NOR_MES	ISG15	
+Thirant_2023	NOR_MES	ETV1	
+Thirant_2023	NOR_MES	JUNB	
+Thirant_2023	NOR_MES_2	IGFBP7	
+Thirant_2023	NOR_MES_2	TAC1	
+Thirant_2023	NOR_MES_2	B2M	
+Thirant_2023	NOR_MES_2	HLA-B	
+Thirant_2023	NOR_MES_2	NR2F1	
+Thirant_2023	NOR_MES_2	NBAS	
+Thirant_2023	NOR_MES_2	C11orf96	
+Thirant_2023	NOR_MES_2	DDX1	
+Thirant_2023	NOR_MES_2	FOXC1	
+Thirant_2023	NOR_MES_2	IER2	
+Thirant_2023	NOR_MES_2	HLA-C	
+Thirant_2023	NOR_MES_2	TIMP3	
+Thirant_2023	NOR_MES_2	ISG15	
+Thirant_2023	NOR_MES_2	ETV1	
+Thirant_2023	NOR_MES_2	HLA-A	
+Thirant_2023	NOR_MES_2	TIMP1	
+Thirant_2023	NOR_MES_2	ADCYAP1	
+Thirant_2023	NOR_MES_2	PHLDA1	
+Thirant_2023	NOR_MES_2	TWIST1	
+Thirant_2023	NOR_MES_2	GAL	
+Thirant_2023	NOR_MES_2	FOS	
+Thirant_2023	NOR_MES_2	JUNB	
+Thirant_2023	NOR_MES_2	HLA-DPB1	
+Thirant_2023	NOR_MES_2	MARCH11	
+Thirant_2023	NOR_MES_2	EGR1	
+Thirant_2023	NOR_MES_2	IFI6	
+Thirant_2023	NOR_MES_2	SYNPO2	
+Thirant_2023	NOR_MES_2	MIR99AHG	
+Thirant_2023	NOR_MES_2	IRS2	
+Thirant_2023	NOR_MES_2	IGFBP5	
+Thirant_2023	NOR_MES_2	PHGDH	
+Thirant_2023	NOR_MES_2	NFIB	
+Thirant_2023	NOR_MES_PDX	SCN9A	
+Thirant_2023	NOR_MES_PDX	PRSS12	
+Thirant_2023	NOR_MES_PDX	NRXN1	
+Thirant_2023	NOR_MES_PDX	CARMN	
+Thirant_2023	NOR_MES_PDX	PLD5	
+Thirant_2023	NOR_MES_PDX	HGF	
+Thirant_2023	NOR_MES_PDX	CHRM2	
+Thirant_2023	NOR_MES_PDX	VIM	
+Thirant_2023	NOR_MES_PDX	TIMP3	
+Thirant_2023	NOR_MES_PDX	TWIST1	
+Thirant_2023	NOR_MES_PDX	CNTN1	
+Thirant_2023	NOR_MES_PDX	PMP22	
+Thirant_2023	NOR_MES_PDX	MEIS2	
+Thirant_2023	NOR_MES_PDX	VCAN	
+Thirant_2023	NOR_MES_PDX	PLCXD3	
+Thirant_2023	NOR_MES_PDX	PCDH9	
+Thirant_2023	NOR_MES_PDX	FOXC1	
+Thirant_2023	NOR_MES_PDX	ADAM22	
+Thirant_2023	NOR_MES_PDX	NFIB	
+Thirant_2023	NOR_MES_PDX	KCNG1	
+Thirant_2023	NOR_MES_PDX	PDLIM5	
+Thirant_2023	NOR_MES_PDX	SPOCK1	
+Thirant_2023	NOR_MES_PDX	LIMCH1	
+Thirant_2023	NOR_MES_PDX	C7	
+Thirant_2023	NOR_MES_PDX	ETV1    
+Wu_Lu_2025_Biorxiv	Nbt	GATA3	NA
+Wu_Lu_2025_Biorxiv	Nbt	PHOX2B	NA
+Wu_Lu_2025_Biorxiv	Nbt	PENK	NA
+Wu_Lu_2025_Biorxiv	Nbt	SEMA3A	NA
+Wu_Lu_2025_Biorxiv	Nbt	GRIA3	NA
+Wu_Lu_2025_Biorxiv	Nbt	CDH13	NA
+Wu_Lu_2025_Biorxiv	Early Nbt	GRID2	NA
+Wu_Lu_2025_Biorxiv	Early Nbt	GRM7	NA
+Wu_Lu_2025_Biorxiv	Early Nbt	BRINP3	NA
+Wu_Lu_2025_Biorxiv	Early Nbt	CDH10	NA
+Wu_Lu_2025_Biorxiv	Early Nbt	PCDH15	NA
+Wu_Lu_2025_Biorxiv	Early Nbt	GRIK1	NA
+Wu_Lu_2025_Biorxiv	Early Nbt	KIRREL3	NA
+Wu_Lu_2025_Biorxiv	Nbt progenitor	FGF13	NA
+Wu_Lu_2025_Biorxiv	Nbt progenitor	TEMN2	NA
+Wu_Lu_2025_Biorxiv	Nbt progenitor	NPY	NA
+Wu_Lu_2025_Biorxiv	Nbt progenitor	SHISA9	NA
+Wu_Lu_2025_Biorxiv	Nbt progenitor	DSCAM	NA
+Wu_Lu_2025_Biorxiv	MES-Nbt	EYA1	NA
+Wu_Lu_2025_Biorxiv	MES-Nbt	PTN	NA
+Wu_Lu_2025_Biorxiv	MES-Nbt	PDE3A	NA
+Wu_Lu_2025_Biorxiv	MES-Nbt2	EYS	NA
+Wu_Lu_2025_Biorxiv	MES-Nbt2	EPHA5	NA
+Wu_Lu_2025_Biorxiv	MES-Nbt2	HMGB2	NA
+Wu_Lu_2025_Biorxiv	DKK2⁺ Nbt Met	VCAN	NA
+Wu_Lu_2025_Biorxiv	DKK2⁺ Nbt Met	DCC	NA
+Wu_Lu_2025_Biorxiv	DKK2⁺ Nbt Met	DKK2	NA
+Wu_Lu_2025_Biorxiv	DKK2⁺ Nbt Met	DGK1	NA
+Wu_Lu_2025_Biorxiv	DKK2⁺ Nbt Met	FUT9	NA
+Wu_Lu_2025_Biorxiv	DKK2⁺ Nbt Met	HOXD10	NA
+Custom_depmap	MES_specific	SLC25A21
+Custom_depmap	MES_specific	PARVB
+Custom_depmap	MES_specific	BMI1
+Custom_depmap	MES_specific	HSF2BP
+Custom_depmap	MES_specific	PNCK
+Custom_depmap	MES_specific	STAT1
+Custom_depmap	MES_specific	ABCA5
+Custom_depmap	MES_specific	NRAS
+Custom_depmap	MES_specific	REP15
+Custom_depmap	MES_specific	MBOAT2
+Custom_depmap	MES_specific	RNASE2
+Custom_depmap	MES_specific	RPS6KA3
+Custom_depmap	MES_specific	XPC
+Custom_depmap	MES_specific	PHF19
+Custom_depmap	MES_specific	DOCK9
+Custom_depmap	MES_specific	ARHGAP20
+Custom_depmap	MES_specific	MND1
+Custom_depmap	MES_specific	RC3H2
+Custom_depmap	MES_specific	SAR1A
+Custom_depmap	MES_specific	ZXDB
+Custom_depmap	MES_specific	LRRC4
+Custom_depmap	MES_specific	SLC52A3
+Custom_depmap	MES_specific	IL4I1
+Custom_depmap	MES_specific	SMIM14
+Custom_depmap	MES_specific	FOXR2
+Custom_depmap	MES_specific	DIO3
+Custom_depmap	MES_specific	LXN
+Custom_depmap	MES_specific	CCDC110
+Custom_depmap	MES_specific	GRK4
+Custom_depmap	MES_specific	ADGRG1
+Custom_depmap	MES_specific	ANKRD62
