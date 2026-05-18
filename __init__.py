@@ -5,6 +5,8 @@ This module contains a few helper functions to go from long format tables (as ar
 to query the available, built-in signatures, and to score single-cell adata objects for signature activity in two different ways
 """
 
+import os
+
 
 def long_to_dict(df):
     signatures = dict(
@@ -24,6 +26,27 @@ def prepare_z_layer(ad, layer="z"):
     return ad
 
 
+def load_builtin():
+    print(f"loading built-in signatures")
+
+    import os
+    import pandas as pd
+
+    path = os.path.dirname(__file__)
+    df = pd.read_csv(os.path.join(path, "gene_sets.tsv"), sep="\t")
+    return df
+
+
+def net_for_decoupler(df=None):
+    import pandas as pd
+
+    if df is None:
+        df = load_builtin()
+
+    net = pd.DataFrame({"target": df["gene_name"], "source": df["gene_set"]})
+    return net
+
+
 def score_signatures_z(
     ad,
     signatures=None,
@@ -40,13 +63,7 @@ def score_signatures_z(
         prepare_z_layer(ad)
 
     if signatures is None:
-        print(f"loading built-in signatures")
-        import os
-        import pandas as pd
-
-        path = os.path.dirname(__file__)
-        df = pd.read_csv(os.path.join(path, "gene_sets.tsv"), sep="\t")
-        signatures = long_to_dict(df)
+        signatures = long_to_dict(load_builtin())
 
     for sig_name, genes in signatures.items():
         print(f"scoring {sig_name}")
